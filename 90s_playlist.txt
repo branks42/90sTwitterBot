@@ -1,3 +1,220 @@
-Put your music in this file. 
-
-Song Name - Artist
+Semi-Charmed Life - Third Eye Blind
+Mr. Jones - Counting Crows
+Two Princes - Spin Doctors
+Closing Time - Semisonic
+Save Tonight - Eagle Eyed Cherry
+Push - Matchbox Twenty
+One Headlight - The Wallflowers
+Hey Jealousy - Gin Blossoms
+I'm Gonna Be (500 Miles) - The Proclaimers
+Good - Better Than Ezra
+If You Could Only See - Tonic
+You Get What You Give - New Radicals
+Lump - The Presidents of the United States of America
+Someday - Sugar Ray
+All I Want - Toad the Wet Sprocket
+Laid - James
+Selling The Drama - Live
+My Own Worst Enemy - Lit
+In The Meantime - Spacehog
+Barely Breathing - Duncan Sheik
+The Way - Fastball
+Everything You Want - Vertical Horizon
+Dyslexic Heart - Paul Westerberg
+What's My Age Again? - blink-182
+No Rain - Blind Melon
+Virtual Insanity - Jamiroquai
+Got You (Where I Want You) - The Flys
+High - Feeder
+What's Up? - Four Non Blondes
+Shimmer - Fuel
+How Bizarre - OMC
+She's So High - Tal Bachman
+Runaway Train - Soul Asylum
+Alright - Supergrass
+Bitter Sweet Symphony - The Verve
+Don't Speak - No Doubt
+Right Here Right Now - Jesus Jones
+Crazy For This Girl - Evan and Jaron
+One Week - Barenaked Ladies
+Sex And Candy - Marcy Playground
+Send Me On My Way - Rusted Root
+Feed The Tree - Belly
+Why I'm Here - Oleander
+Beautiful Girl - INXS
+That Was A Crazy Game Of Poker - OAR
+Losing My Religion - REM
+Unbelievable - EMF
+Little Black Backpack - Stroke 9
+Teenage Dirtbag - Wheatus
+Come Out And Play - The Offspring
+All Star - Smash Mouth
+Absolutely (Story Of A Girl) - Nine Days
+Roll To Me - Del Amitri
+Inside Out - Eve 6
+Blister In The Sun - Violent Femmes
+Cannonball - The Breeders
+Iris - The Goo Goo Dolls
+Into Your Arms - The Lemonheads
+Mmmm Mmmm Mmmm Mmmm - Crash Test Dummies
+Santa Monica - Everclear
+Shine - Collective Soul
+Run-Around - Blues Traveler
+All For You - Sister Hazel
+Linger - The Cranberries
+Ironic - Alanis Morissette
+Breakfast At Tiffany's - Deep Blue Something
+Crash Into Me - Dave Matthews Band
+Counting Blue Cars - Dishwalla
+One Man Army - Our Lady Peace
+Lovefool - The Cardigans
+Stupid Girl - Garbage
+The Freshman - The Verve Pipe
+Glycerine - Bush
+The Distance - Cake
+The Impression That I Get - The Mighty Mighty Bosstones
+Far Behind - Candlebox
+Buddy Holly - Weezer
+What I Got - Sublime
+Kiss Me - Sixpence None The Richer
+Closer To Fine - Indigo Girls
+Life Is A Highway - Tom Cochrane
+Fade Into You - Mazzy Star
+Friday I'm In Love - The Cure
+High And Dry - Radiohead
+Loser - Beck
+She Don'tUse Jelly - The Flaming Lips
+Everything About You - Ugly Kid Joe
+Everything Falls Apart - Dog's Eye View
+Freak Of The Week - Marvelous 3
+Better Days (And The Bottom Drops Out) - Citizen King
+Bound For The Floor - Local H
+Novacaine For The Soul - Eels
+Barbie Girl - Aqua
+U Can't Touch This - MC Hammer
+Boom, Boom, Boom, Boom - Vengaboys
+No Limit - 2 Unlimited
+The Sign - Ace of Base
+The Rhythm Of The Night - Corona
+Beautiful Life - Ace of Base
+Rhythm Is A Dancer - SNAP!
+What Is Love? - Haddaway
+Sandstorm - Darude
+Another Night - Real McCoy
+Saturday Night - Whigfield
+Scatman - Scatman John
+Blue (Da Ba Dee) - Eiffel 65
+Pump Up The Jam - Technotronic
+Tearin' Up My Heart - *NSYNC
+I Want You Back - *NSYNC
+Bye Bye Bye - *NSYNC
+It's Gonna Be Me - *NSYNC
+As Long As You Love Me - Backstreet Boys(
+Everybody (Backstreet's Back) - Backstreet Boys
+Shape Of My Heart - Backstreet Boys
+I Want It That Way - Backstreet Boys
+Slam Dunk (Da Funk) - Five
+Summer Girls - LFO
+...Baby One More Time - Britney Spears
+(You Drive Me) Crazy - Britney Spears
+Always Be My Baby - Mariah Carey
+Bring It All Back - S Club 7
+S Club Party - S Club 7
+Who Let The Dogs Out - Baha Men
+MMMBop - Hanson
+Good Riddance (Time Of Your Life) - Green Day
+Basket Case - Green Day
+When I Come Around - Green Day
+Wannabe - Spice Girls
+Song 2- Blur
+You Oughta Know - Alanis Morisette
+Criminal - Fiona Apple
+Torn - Natalie Imbruglia
+My Name Is - Eminem
+Vogue - Madonna
+All I Wanna Do - Sheryl Crow
+Smells Like Teen Spirit - Nirvana
+Black Hole Sun - Soundgarden
+Tubthumping - Chumbawumba
+Waiting For Tonight - Jennifer Lopez
+Kiss From A Rose - Seal
+Cotton Eye Joe - Rednex
+Only Happy When It Rains - Garbage
+Millenium - Robbie Williams
+If You Had My Love - Jennifer Lopez
+I Want You - Savage Garden
+1979 - The Smashing Pumpkins
+2 Become 1 - Spice Girls
+Spice Up Your Life - Spice Girls
+Cryin' - Aerosmith
+Zombie - The Cranberries
+Parklife - Blur
+Spiderwebs - No Doubt
+Just A Girl - No Doubt
+Sunday Morning - No Doubt
+Weightless - See Spot Run
+Around The World - Daft Punk
+Block Rockin' Beats - The Chemical Brothers
+Praise You - Fatboy Slim
+Right Here, Right Now - Fatboy Slim
+Firestarter - The Prodigy
+Freedom! - George Michael
+Peaches - The Presidents of the United States of America
+Believe - Cher
+Can You Feel The Love Tonight - Elton John
+Circle of Life - Elton John
+Du Hast - Rammstein
+You Are Not Alone - Michael Jackson
+Black or White - Michael Jackson
+Falling In Love Again - Eagle Eyed Cherry
+Drinking In L.A. - Bran Van 3000
+Karma Police - Radiohead
+Not An Addict - K's Choice
+Tonight, Tonight - The Smashing Pumpkins
+Zero - The Smashing Pumpkins
+To The Moon & Back - Savage Garden
+Jumper - Third Eye Blind
+If It Makes You Happy - Sheryl Crow
+My Favorite Mistake - Sheryl Crow
+Celebrity Skin - Hole
+Malibu - Hole
+Cruel Summer - Bananarama
+Livin' La Vida Loca - Ricky Martin
+The Hook - Blues Traveler
+Hands - Jewel
+The Sweetest Thing - U2
+Everlong - Foo Fighters
+This Is A Call - Foo Fighters
+Shiny Happy People - REM
+Man On The Moon - REM
+Buddy Holly - Weezer
+Under The Bridge - Red Hot Chili Peppers
+Pony - Ginuwine
+Fly Away - Lenny Kravitz
+Return of the Mack - Mark Morrison
+This Is How We Do It - Montell Jordan
+Get It On Tonite - Montell Jordan
+Waterfalls - TLC
+Creep - TLC
+No Scrubs - TLC
+I Will Always Love You - Whitney Houston
+To Be With You - Mr. Big
+How Deep Is Your Love - Take That
+Back For Good - Take That
+Are You Jimmy Ray - Jimmy Ray
+Listen To Your Heart - Roxette
+I'll Make Love To You - Boyz II Men
+Graduation (Friends Forever) - Vitamin C
+There You Go - P!nk
+Pumping On Your Stereo - Supergrass
+If You Could Only See - Tonic
+What It's Like - Everlast
+Pretty Fly (For A White Guy) - The Offspring
+What's The Frequency, Kenneth? - REM
+Truly Madly Deeply - Savage Garden
+Fly Like An Eagle - Seal
+It Was A Good Day - Ice Cube
+Something About The Way You Look Tonight - Elton John
+Fly - Sugar Ray
+Every Morning - Sugar Ray
+Never There - Cake
