@@ -33,5 +33,5 @@ while True:
 		# Tweet the song
 		api.update_status(song + "\n#90sGuiltyPleasures" + "\n" + "https://www.youtube.com/watch?v=" + search_results[0])
 
-		# Set timer to rerun script in 24 hours
-		time.sleep(86400)
+		# runs one time, returns info
+		break
