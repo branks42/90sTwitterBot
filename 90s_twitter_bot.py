@@ -34,4 +34,4 @@ while True:
 		api.update_status(song + "\n#90sGuiltyPleasures" + "\n" + "https://www.youtube.com/watch?v=" + search_results[0])
 
 		# runs at whatever time interval you'd like
-		time.sleep("Insert time interval here")
+		time.sleep("Insert time interval here/in seconds")
