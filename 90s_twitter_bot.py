@@ -30,7 +30,7 @@ while True:
 		# Print to console
 		print("[" + time.ctime() + "] Song tweeted: " + song + "\nhttp://www.youtube.com/watch?v=" + search_results[0])
 
-		# Tweet the song
+		# Tweet the song name, hashtag, and music video
 		api.update_status(song + "\n#90sGuiltyPleasures" + "\n" + "https://www.youtube.com/watch?v=" + search_results[0])
 
 		# runs at whatever time interval you'd like
