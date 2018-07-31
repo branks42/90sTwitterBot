@@ -27,7 +27,7 @@ while True:
 		html_content = urllib.request.urlopen("https://www.youtube.com/results?" + query_string)
 		search_results = re.findall(r'href=\"\/watch\?v=(.{11})', html_content.read().decode())
 
-		# Print to console
+		# Print song that was tweeted to console
 		print("[" + time.ctime() + "] Song tweeted: " + song + "\nhttp://www.youtube.com/watch?v=" + search_results[0])
 
 		# Tweet the song name, hashtag, and music video
